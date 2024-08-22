@@ -1,0 +1,1 @@
+A secure Tkinter-based Python password manager: Generates strong passwords, stores website credentials in "data.json," and features an intuitive GUI for easy access. With secure data storage and password generation, it offers an efficient, user-friendly way to manage and protect your passwords.
